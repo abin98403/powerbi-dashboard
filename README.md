@@ -35,7 +35,7 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 
 
 ![Dashboard](your-<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/610e339b-da51-4118-af71-d1deb2b154e9" />
-image-name.png)
+POWER BI DASHBOARD)
 
 ---
 
