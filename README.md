@@ -32,9 +32,10 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 ---
 
 ## 📸 Dashboard Preview
-(Add your screenshot here)
 
-![Dashboard](your-image-name.png)
+
+![Dashboard](your-<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/610e339b-da51-4118-af71-d1deb2b154e9" />
+image-name.png)
 
 ---
 
